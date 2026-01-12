@@ -1,1 +1,31 @@
+body{
+    
+    margin:0px 500px;
+    background: linear-gradient(135deg, #1E90FF, #00C896);
+    min-height: 100vh;
+}
 
+.title{
+    font-family: Arial;
+    color: #FF6F61;
+}
+
+.list{
+    color:#FF6F61;
+}
+
+.text{
+    color:#FF6F61;
+}
+
+.palm1{
+    position: absolute;
+    margin-left: 450px;
+    margin-top:-420px;
+}
+
+.palm2{
+    position: absolute;
+    margin-left: -800px;
+    margin-top:-420px;
+}
