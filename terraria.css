@@ -20,12 +20,12 @@ body{
 
 .palm1{
     position: absolute;
-    margin-left: 450px;
-    margin-top:-420px;
+    margin-left: auto;
+    margin-top:auto;
 }
 
 .palm2{
     position: absolute;
-    margin-left: -800px;
-    margin-top:-420px;
+    margin-left: auto;
+    margin-top: auto;
 }
