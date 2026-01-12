@@ -1,8 +1,12 @@
 body{
-    
-    margin:auto auto;
-    background: linear-gradient(135deg, #1E90FF, #00C896);
-    min-height: 100vh;
+    margin:0;
+}
+
+.page{
+    width:100%;
+    max-width:1200px;
+    margin:0 auto;
+    padding: 16px;
 }
 
 .title{
